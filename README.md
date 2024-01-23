@@ -1,1 +1,2 @@
 # frontend-3tund
+Lahendasin terminali ülesanded kasutades saadetud käskude ja teiste klassikaaslaste abiga. Leidsin gihub käsud ka saadetud tunni faili all ja arvan, et hetkel saan teemast piisavalt aru. Asjad said kindalsti selgemaks kui eelmine tund kuna kordamise eelmise tunni asju ja ette antud käsklused aitasid kaasa. Arvan, et kuulan tunnis kaasa küll ja saan oma asjad tehtud nii nagi vaja. Natuke väsitab ära kuna asi on üpris uus ja võtab aega, et asjale pihta saada.
